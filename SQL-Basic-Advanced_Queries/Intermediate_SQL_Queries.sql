@@ -1,8 +1,4 @@
 /*
-This query text was retrieved from showplan XML, and may be truncated.
-*/
-
-/*
 Inner Joins, Full/Left/Right Outer Joins
 */
 
